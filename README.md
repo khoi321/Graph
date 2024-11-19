@@ -34,3 +34,19 @@ Thông thường, đồ thị được mô tả dưới dạng sơ đồ với c
 Trọng số là giá trị gán cho mỗi cạnh có đồ thị,tùy theo tính chất bài toán mà có các ý ngĩa khác nhau ví dụ: Khoảng cách,chi phí,...
 
 ![Trọng số](https://files.catbox.moe/v5w2ew.png)
+
+# Ma trận kề,Danh sách kề,Danh sách cạnh
+## Danh sách cạnh
+- **Cho một đồ thị như sau:**
+
+![Đồ thị](https://files.catbox.moe/oc6o6z.png)
+
+- **Thì đồ thị sẽ có sanh sách cạnh là:**
+
+```txt
+1 2
+1 4
+2 3
+4 5
+5 3
+```
