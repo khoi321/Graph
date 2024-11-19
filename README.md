@@ -19,7 +19,7 @@ Thông thường, đồ thị được mô tả dưới dạng sơ đồ với c
 
 ![Đồ thị có hướng](https://files.catbox.moe/zrqxas.png)
 
-[Source: Wikipedia](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93_th%E1%BB%8B_(l%C3%BD_thuy%E1%BA%BFt_%C4%91%E1%BB%93_th%E1%BB%8B)#%C4%90%E1%BB%93_th%E1%BB%8B_c%C3%B3_h%C6%B0%E1%BB%9Bng)
+[Source image: Wikipedia](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93_th%E1%BB%8B_(l%C3%BD_thuy%E1%BA%BFt_%C4%91%E1%BB%93_th%E1%BB%8B)#%C4%90%E1%BB%93_th%E1%BB%8B_c%C3%B3_h%C6%B0%E1%BB%9Bng)
 
 ---
 
