@@ -1,6 +1,6 @@
 # Graph - Đồ thị
-
-### **Đồ thị** là gì?
+Repo này nói về đồ thị
+# **Đồ thị** là gì?
 Đồ thị là một cấu trúc dữ liệu (CTDL) bao gồm các đỉnh và cạnh được nối với nhau. Đồ thị mô tả các đối tượng và các mối quan hệ giữa chúng. Các đối tượng được gọi là **đỉnh** (hay nút, điểm), còn mối quan hệ giữa các đối tượng gọi là **cạnh** (hay liên kết, đường thẳng).
 
 Thông thường, đồ thị được mô tả dưới dạng sơ đồ với các chấm hoặc hình tròn đại diện cho đỉnh và các đường thẳng hoặc đường cong đại diện cho các cạnh.
@@ -29,3 +29,8 @@ Thông thường, đồ thị được mô tả dưới dạng sơ đồ với c
 - **Ví dụ:** Nếu có cạnh từ A -> B, thì có thể đi ngược lại từ B -> A
 
 ![Đồ thị vô hướng](https://files.catbox.moe/bqv8ak.png)
+
+## 3. Trọng số (Weight)
+Trọng số là giá trị gán cho mỗi cạnh có đồ thị,tùy theo tính chất bài toán mà có các ý ngĩa khác nhau ví dụ: Khoảng cách,chi phí,...
+
+![Trọng số](https://files.catbox.moe/v5w2ew.png)
